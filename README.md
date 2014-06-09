@@ -24,6 +24,7 @@ Node.js Environment Variable Management
 # Overrides
 Need to override some environment variables?  
 It's not recommended, but you can.  
+
     // Override
     var atmo = require('atmosphere')(process.env, { port : 8080 });
     atmo.get('port'); // 8080
