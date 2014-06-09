@@ -1,6 +1,6 @@
 {
   "name": "atmosphere",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js Environment Variable Management",
   "author": "Ryan Lelek <ryanlelek@gmail.com>",
   "repository": {
