@@ -1,0 +1,11 @@
+{
+  "name": "atmosphere",
+  "version": "0.0.1",
+  "description": "Node.js Environment Variable Management",
+  "author": "Ryan Lelek <ryanlelek@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryanlelek/atmosphere.git"
+  },
+  "main": "./lib/index.js"
+}
